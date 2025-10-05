@@ -112,11 +112,12 @@ Mari kita ikuti alur kerja developer sehari-hari dengan perintah yang sesuai.
 ----
 **Praktik : Membuat repo baru di gitlab**
 
- - A. Dengan Cara init repo dari local
-   - buat repo baru, create `readme.md` dan push ke repository baru.
-
- - B. Clone repo ke local
+ - A. Clone repo ke local
    - Clone existing repo ke local pc
+   - https://github.com/startbootstrap/startbootstrap-freelancer
+
+ - B. Dengan Cara init repo dari local
+   - push hasil clone ke repository baru kita.
 -----
 
 ### **3. Strategi Branching dan Merge Request (MR) 🌱🔀**
